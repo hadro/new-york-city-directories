@@ -18,8 +18,8 @@ volume as a txt file.
 N.B. The files below can be very large, ranging from 4MB to nearly 4GB. The
 volumes in both PDF and txt are listed below along with their file sizes to help
 you know what you're getting before you click. For individual pages or simple
-non-search browsing, we suggest using the Digital Collections collection page
-listed above.
+non-search browsing to get a sense of what's in the volumes, I suggest using the Digital Collections 
+link provided in the table below for each volume.
 
 | pdf | size | txt | size | digital_collections_link |
 | ----- | ------ | ----- | ------ | ------ |
