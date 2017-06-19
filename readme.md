@@ -4,7 +4,7 @@ The files in this repository are derived from the [New York City Directories](ht
 
 For more on what's coming here, see "[New York Public Library Digitizes 137 Years of New York City Directories](https://www.nypl.org/blog/2016/09/21/new-york-city-directories-free-online)" by Philip Sutton.
 
-## Searchable PDFs
+## Searchable PDFs and txts
 
 Currently, the NYPL Digital Collections interface does not support full-text
 search of these directories, or the ability to offer downloads of entire volumes
@@ -12,9 +12,14 @@ as PDFs. See below for links to searchable PDF files for each of the digitized
 City Directory volumes until such time as these derivatives can be incorporated
 into the Digital Collections platform.
 
-N.B. The files below are very large, ranging from ~250MB to nearly 4GB. For
-individual pages or simple non-search browsing, we suggest using the Digital
-Collections collection page listed above.
+Meanwhile, the raw OCR text extracted from the PDFs is also available for each
+volume as a txt file. 
+
+N.B. The files below can be very large, ranging from 4MB to nearly 4GB. The
+volumes in both PDF and txt are listed below along with their file sizes to help
+you know what you're getting before you click. For individual pages or simple
+non-search browsing, we suggest using the Digital Collections collection page
+listed above.
 
 | pdf | size | txt | size |
 |-----|------|-----|------|
