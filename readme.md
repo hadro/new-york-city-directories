@@ -1,4 +1,4 @@
-#New York City Directories
+# New York City Directories
 
 The files in this repository are derived from the [New York City Directories](http://digitalcollections.nypl.org/collections/new-york-city-directories#/?tab=about) held by the New York Public Library collections.
 
