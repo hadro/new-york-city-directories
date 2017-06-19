@@ -17,6 +17,7 @@ individual pages or simple non-search browsing, we suggest using the Digital
 Collections collection page listed above.
 
 | pdf | size | txt | size |
+|-----|------|-----|------|
 | [1849.pdf](https://spacetime-nypl-org.s3.amazonaws.com/city-directories/pdfs/1849.pdf) | 248M | [1849.txt](https://spacetime-nypl-org.s3.amazonaws.com/city-directories/txt/1849.txt) | 4.8M |
 | [1850.pdf](https://spacetime-nypl-org.s3.amazonaws.com/city-directories/pdfs/1850.pdf) | 318M | [1850.txt](https://spacetime-nypl-org.s3.amazonaws.com/city-directories/txt/1850.txt) | 5.2M |
 | [1851.pdf](https://spacetime-nypl-org.s3.amazonaws.com/city-directories/pdfs/1851.pdf) | 287M | [1851.txt](https://spacetime-nypl-org.s3.amazonaws.com/city-directories/txt/1851.txt) | 5.8M |
@@ -81,8 +82,8 @@ Collections collection page listed above.
 | [1911-1912.pdf](https://spacetime-nypl-org.s3.amazonaws.com/city-directories/pdfs/1911-1912.pdf) | 2.1G | [1911-1912.txt](https://spacetime-nypl-org.s3.amazonaws.com/city-directories/txt/1911-1912.txt) |  40M |
 | [1912-1913.pdf](https://spacetime-nypl-org.s3.amazonaws.com/city-directories/pdfs/1912-1913.pdf) | 1.5G | [1912-1913.txt](https://spacetime-nypl-org.s3.amazonaws.com/city-directories/txt/1912-1913.txt) |  38M |
 | [1913-1914.pdf](https://spacetime-nypl-org.s3.amazonaws.com/city-directories/pdfs/1913-1914.pdf) | 1.5G | [1913-1914.txt](https://spacetime-nypl-org.s3.amazonaws.com/city-directories/txt/1913-1914.txt) |  38M |
-| [1915.pt1.pdf](https://spacetime-nypl-org.s3.amazonaws.com/city-directories/pdfs/1915.pt1.pdf) | 1.4G | [1915 pt 1.txt](https://spacetime-nypl-org.s3.amazonaws.com/city-directories/txt/1915 pt 1.txt) |  52M |
-| [1915.pt2.pdf](https://spacetime-nypl-org.s3.amazonaws.com/city-directories/pdfs/1915.pt2.pdf) | 924M | [1915 pt 2.txt](https://spacetime-nypl-org.s3.amazonaws.com/city-directories/txt/1915 pt 2.txt) |  31M |
+| [1915.pt1.pdf](https://spacetime-nypl-org.s3.amazonaws.com/city-directories/pdfs/1915.pt1.pdf) | 1.4G | [1915 pt 1.txt](https://spacetime-nypl-org.s3.amazonaws.com/city-directories/txt/1915.pt1.txt) |  52M |
+| [1915.pt2.pdf](https://spacetime-nypl-org.s3.amazonaws.com/city-directories/pdfs/1915.pt2.pdf) | 924M | [1915 pt 2.txt](https://spacetime-nypl-org.s3.amazonaws.com/city-directories/txt/1915.pt2.txt) |  31M |
 | [1916.pdf](https://spacetime-nypl-org.s3.amazonaws.com/city-directories/pdfs/1916.pdf) | 2.3G | [1916.txt](https://spacetime-nypl-org.s3.amazonaws.com/city-directories/txt/1916.txt) |  93M |
 | [1917.pdf](https://spacetime-nypl-org.s3.amazonaws.com/city-directories/pdfs/1917.pdf) | 2.6G | [1917.txt](https://spacetime-nypl-org.s3.amazonaws.com/city-directories/txt/1917.txt) | 124M |
 | [1918.pdf](https://spacetime-nypl-org.s3.amazonaws.com/city-directories/pdfs/1918.pdf) | 3.8G | [1918.txt](https://spacetime-nypl-org.s3.amazonaws.com/city-directories/txt/1918.txt) | 113M |
